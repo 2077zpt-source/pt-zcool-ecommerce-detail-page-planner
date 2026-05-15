@@ -20,6 +20,10 @@
 
 页面策略、模块结构、首屏方案、视觉节奏建议、素材补拍清单、合规提醒
 
+## 在线演示
+
+https://2077zpt-source.github.io/pt-zcool-ecommerce-detail-page-planner/
+
 ## 文件
 
 - `SKILL.md`: skill 主体文件
